@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\CIS 200 Program 2\CIS 200 Program 2\Class.h(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\CIS 200 Program 2\CIS 200 Program 2\Class.h(61,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\CIS 200 Program 2\CIS 200 Program 2\Class.h(105,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\CIS 200 Program 2\CIS 200 Program 2\Class.h(116,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\CIS 200 Program 2\CIS 200 Program 2\Class.h(345,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bailley\source\repos\CIS 200 Program 2\CIS 200 Program 2\Main.cpp(15,31): warning C4101: 'otPay': unreferenced local variable
+  CIS 200 Program 2.vcxproj -> C:\Users\bailley\source\repos\CIS 200 Program 2\Debug\CIS 200 Program 2.exe

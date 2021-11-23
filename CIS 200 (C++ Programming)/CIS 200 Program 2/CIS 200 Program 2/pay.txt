@@ -1,0 +1,18 @@
+Hourly Emplyee
+Hourly Employees name is Bailey Helfer
+SSN: xxx-xx-7796    Employee Number: 321-B
+Pay Rate: $40       Hours worked: 50
+OT Pay Rate: $60   Tax Percentage: 20%
+Work Status: Full Time
+
+Salary Employee
+Salary Employees name is Johny Bravo
+SSN: xxx-xx-6789       Employee Number: 456-J
+Annual Pay: $70000     Weekly Pay: $1346.15
+Tax Percentage: 25%
+
+Agency Emplyee
+Agency Employees name is Billy Bob
+SSN: xxx-xx-4321    Employee Number: 100-A
+Pay Rate: $15       Hours worked: 40
+Company to pay: JohnyLLC

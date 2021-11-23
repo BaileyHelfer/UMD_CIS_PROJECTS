@@ -1,0 +1,5 @@
+Employees name is Bailey Helfer
+SSN: xxx-xx-7796    Employee Number: 321-H
+Pay Rate: 35    Hours worked: 45
+OT Pay Rate: 52.5     Tax Percentage: 25%
+Work Status: Full Time
