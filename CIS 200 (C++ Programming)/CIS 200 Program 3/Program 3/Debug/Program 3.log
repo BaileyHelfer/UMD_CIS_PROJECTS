@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\Program 3\Program 3\Main.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\Program 3\Program 3\Main.cpp(43,18): warning C4101: 'BR': unreferenced local variable
+C:\Users\bailley\source\repos\Program 3\Program 3\Main.cpp(43,12): warning C4101: 'close': unreferenced local variable
+C:\Users\bailley\source\repos\Program 3\Program 3\Main.cpp(43,21): warning C4101: 'ropen': unreferenced local variable
+C:\Users\bailley\source\repos\Program 3\Program 3\Main.cpp(43,7): warning C4101: 'open': unreferenced local variable
+C:\Users\bailley\source\repos\Program 3\Program 3\stack.h(131): warning C4715: 'Stack::remove': not all control paths return a value
+  Program 3.vcxproj -> C:\Users\bailley\source\repos\Program 3\Debug\Program 3.exe
