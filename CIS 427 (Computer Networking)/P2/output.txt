@@ -1,0 +1,4 @@
+1001	root lastname		313-232-1123
+1002	john smith		248-232-9012
+1003	david johnson		734-456-1211
+1004	marry lamb		248-343-1121
