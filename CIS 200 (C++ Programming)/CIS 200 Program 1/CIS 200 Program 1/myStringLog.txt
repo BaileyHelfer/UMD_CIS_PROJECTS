@@ -1,0 +1,15 @@
+program action - ask user for name.
+user action - user enters Beezy
+program action - myString instance1 created.
+program action - myString temp5 created
+user action- string temp is set to dfsdfsdfsdfsdfdsfdsfdfsdfsdfdsfdsfdsf
+user action - temp5 is updated to dfsdfsdfsdfsdfdsfdsfdfsdfsdfdsfdsfdsf
+program action - Error, string contains more than 25 characters
+program action - instance1 string value is updated to 
+program action - string 'tempString' created
+user action - instance1 value is set to Hello
+user action - int position is set to -1
+program action - the character at the assigned position is 3
+user action - int position is set to 9
+program action - the character at the assigned position is 3
+user action - user quits program
