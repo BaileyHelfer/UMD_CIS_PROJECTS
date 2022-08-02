@@ -1,0 +1,22 @@
+
+Tracing route to dhis2.org [91.242.200.159]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  10.20.31.1 
+  2    <1 ms    <1 ms    <1 ms  50-231-65-177-static.hfc.comcastbusiness.net [50.231.65.177] 
+  3    <1 ms    <1 ms    <1 ms  162.151.146.141 
+  4     8 ms    18 ms     7 ms  be-162-ar02.pontiac.mi.michigan.comcast.net [68.87.190.29] 
+  5     9 ms    34 ms    30 ms  ae-3.bar3.Detroit1.Level3.net [4.68.37.145] 
+  6   119 ms   137 ms   119 ms  ae-2-3204.edge4.Stockholm2.Level3.net [4.69.135.162] 
+  7   119 ms   119 ms   120 ms  212.73.250.254 
+  8     *        *        *     Request timed out.
+  9   120 ms   119 ms   119 ms  SESTO1096-RCS1.ip-only.net [146.247.200.38] 
+ 10   123 ms   123 ms   123 ms  SEORE0085-RCS1.ip-only.net [146.247.200.3] 
+ 11   126 ms   126 ms   126 ms  NOOSL0001-RC7.ip-only.net [146.247.200.59] 
+ 12   127 ms   127 ms   127 ms  146.247.200.219 
+ 13   114 ms   114 ms   114 ms  83.145.7.142 
+ 14   115 ms   115 ms   115 ms  p2p2.cloudgw1.nexthop.no [91.90.105.6] 
+ 15   115 ms   115 ms   116 ms  91.242.200.24 
+ 16   118 ms   116 ms   115 ms  91.242.200.159 
+
+Trace complete.

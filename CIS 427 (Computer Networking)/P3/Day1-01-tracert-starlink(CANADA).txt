@@ -1,0 +1,12 @@
+
+Tracing route to starlink.com [151.101.66.133]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  10.20.31.1 
+  2    <1 ms    <1 ms    <1 ms  50-231-65-177-static.hfc.comcastbusiness.net [50.231.65.177] 
+  3    <1 ms    <1 ms    <1 ms  162.151.146.141 
+  4     2 ms     2 ms     2 ms  be-162-ar02.pontiac.mi.michigan.comcast.net [68.87.190.29] 
+  5    10 ms    10 ms    10 ms  50-234-222-98-static.hfc.comcastbusiness.net [50.234.222.98] 
+  6    10 ms    10 ms    10 ms  151.101.66.133 
+
+Trace complete.

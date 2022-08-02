@@ -1,0 +1,21 @@
+
+Tracing route to dstv.com [197.80.203.245]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  10.20.31.1 
+  2    <1 ms    <1 ms    <1 ms  50-231-65-177-static.hfc.comcastbusiness.net [50.231.65.177] 
+  3    <1 ms    <1 ms    <1 ms  162.151.146.141 
+  4     2 ms     2 ms     1 ms  be-162-ar02.pontiac.mi.michigan.comcast.net [68.87.190.29] 
+  5     9 ms     9 ms     9 ms  ae-3.bar3.Detroit1.Level3.net [4.68.37.145] 
+  6    88 ms    88 ms    87 ms  ae-1-3110.edge3.London1.Level3.net [4.69.140.198] 
+  7    91 ms    91 ms    91 ms  MWEB.edge3.London1.Level3.net [195.50.124.134] 
+  8   273 ms   271 ms   271 ms  176.67.178.3 
+  9   268 ms   271 ms   271 ms  be-69-thd-p-1.optinet.net [176.67.177.161] 
+ 10   270 ms   271 ms   272 ms  s1-po0-3-0-0.vic-p-2.optinet.net [197.80.5.8] 
+ 11   268 ms   271 ms   270 ms  te0-7-0-3.vic-p-1.optinet.net [197.80.7.1] 
+ 12   268 ms   268 ms   270 ms  197-80-7-79.jhb.mweb.co.za [197.80.7.79] 
+ 13   268 ms   268 ms   268 ms  bu-ether3.mca-pe-1.optinet.net [197.80.4.37] 
+ 14   268 ms   268 ms   268 ms  197-80-206-101.jhb.mweb.co.za [197.80.206.101] 
+ 15   268 ms   268 ms   268 ms  197-80-203-245.jhb.mweb.co.za [197.80.203.245] 
+
+Trace complete.

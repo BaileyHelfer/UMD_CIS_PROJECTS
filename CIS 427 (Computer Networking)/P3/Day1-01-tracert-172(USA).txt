@@ -1,0 +1,16 @@
+
+Tracing route to lga15s48-in-f206.1e100.net [172.217.4.206]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  10.20.31.1 
+  2     3 ms     2 ms     2 ms  50-231-65-177-static.hfc.comcastbusiness.net [50.231.65.177] 
+  3    <1 ms    <1 ms     2 ms  162.151.146.141 
+  4     2 ms     1 ms     1 ms  be-162-ar02.pontiac.mi.michigan.comcast.net [68.87.190.29] 
+  5     9 ms     8 ms     9 ms  be-32111-cs01.350ecermak.il.ibone.comcast.net [96.110.42.177] 
+  6     8 ms     8 ms     8 ms  be-2104-pe04.350ecermak.il.ibone.comcast.net [96.110.37.34] 
+  7     8 ms     8 ms     8 ms  96-87-9-122-static.hfc.comcastbusiness.net [96.87.9.122] 
+  8     9 ms     9 ms     9 ms  108.170.230.148 
+  9    10 ms     9 ms     9 ms  74.125.251.47 
+ 10     8 ms     8 ms     8 ms  lga15s48-in-f206.1e100.net [172.217.4.206] 
+
+Trace complete.

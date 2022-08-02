@@ -1,0 +1,20 @@
+
+Tracing route to cmoa.jp [211.1.239.160]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  10.20.31.1 
+  2     1 ms     1 ms    <1 ms  50-231-65-177-static.hfc.comcastbusiness.net [50.231.65.177] 
+  3    <1 ms    <1 ms    <1 ms  162.151.146.141 
+  4     2 ms     1 ms     1 ms  be-162-ar02.pontiac.mi.michigan.comcast.net [68.87.190.29] 
+  5     9 ms     9 ms     9 ms  be-32141-cs04.350ecermak.il.ibone.comcast.net [96.110.42.189] 
+  6     *        *        *     Request timed out.
+  7     8 ms     9 ms     8 ms  ae-3.r08.chcgil09.us.bb.gin.ntt.net [129.250.8.65] 
+  8     8 ms     9 ms     8 ms  ae-6.r22.chcgil09.us.bb.gin.ntt.net [129.250.2.191] 
+  9    58 ms    54 ms    54 ms  ae-7.r25.sttlwa01.us.bb.gin.ntt.net [129.250.3.42] 
+ 10   148 ms   147 ms   148 ms  ae-6.r26.osakjp02.jp.bb.gin.ntt.net [129.250.3.61] 
+ 11   156 ms   148 ms   147 ms  ae-1.a01.osakjp02.jp.bb.gin.ntt.net [129.250.3.232] 
+ 12   155 ms   154 ms   154 ms  ae-1.smartconnect-osa.osakjp02.jp.bb.gin.ntt.net [61.200.82.238] 
+ 13   180 ms   171 ms   188 ms  210.172.36.42 
+ 14   153 ms   154 ms   153 ms  cmoa160.cmoa.jp [211.1.239.160] 
+
+Trace complete.
