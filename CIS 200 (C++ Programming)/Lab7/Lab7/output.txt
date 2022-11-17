@@ -1,0 +1,5 @@
+Word1: hey
+Word2: hi
+Word1: 01356A18
+Word2: 01356BD8
+Combined: 01356A18

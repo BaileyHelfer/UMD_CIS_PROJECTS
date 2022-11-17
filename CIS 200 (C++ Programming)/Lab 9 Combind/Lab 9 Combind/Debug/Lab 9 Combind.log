@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\Lab 9 Combind\Lab 9 Combind\Main.cpp(254): warning C4715: 'Stack<int>::peek': not all control paths return a value
+C:\Users\bailley\source\repos\Lab 9 Combind\Lab 9 Combind\Main.cpp(148): warning C4715: 'Queue<int>::FrontPeek': not all control paths return a value
+C:\Users\bailley\source\repos\Lab 9 Combind\Lab 9 Combind\Main.cpp(254): warning C4715: 'Stack<float>::peek': not all control paths return a value
+C:\Users\bailley\source\repos\Lab 9 Combind\Lab 9 Combind\Main.cpp(148): warning C4715: 'Queue<float>::FrontPeek': not all control paths return a value
+C:\Users\bailley\source\repos\Lab 9 Combind\Lab 9 Combind\Main.cpp(254): warning C4715: 'Stack<char>::peek': not all control paths return a value
+C:\Users\bailley\source\repos\Lab 9 Combind\Lab 9 Combind\Main.cpp(148): warning C4715: 'Queue<char>::FrontPeek': not all control paths return a value
+  Lab 9 Combind.vcxproj -> C:\Users\bailley\source\repos\Lab 9 Combind\Debug\Lab 9 Combind.exe

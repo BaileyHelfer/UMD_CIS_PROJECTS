@@ -1,0 +1,22 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\CIS 200\Lab 9 Queue\Lab 9 Queue\Main.cpp(234,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\bailley\source\repos\CIS 200\Lab 9 Queue\Lab 9 Queue\Main.cpp(252,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\bailley\source\repos\CIS 200\Lab 9 Queue\Lab 9 Queue\Main.cpp(260,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\bailley\source\repos\CIS 200\Lab 9 Queue\Lab 9 Queue\Main.cpp(269,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+  Lab 9 Queue.vcxproj -> C:\Users\bailley\source\repos\CIS 200\Lab 9 Queue\Debug\Lab 9 Queue.exe

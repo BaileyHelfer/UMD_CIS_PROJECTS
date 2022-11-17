@@ -1,0 +1,17 @@
+I S
+R
+P
+L
+T
+A 1
+A 5
+A 1
+A 1
+T
+P
+A 2
+A 4
+L
+P
+R
+A 4

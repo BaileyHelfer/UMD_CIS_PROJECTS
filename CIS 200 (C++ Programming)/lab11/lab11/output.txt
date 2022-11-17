@@ -1,0 +1,16 @@
+Job Number	Pages
+    1             5
+    2             8
+    3             9
+    4             1
+
+Print Order
+Print Job Number    Original Job Number    Pages    Position Change
+    1                        4                1            3
+    2                        1                5           -1
+    3                        2                8           -1
+    4                        3                9           -1
+
+Largest Move Forward: 3 positions     Print Job 4
+Largest Move Backward: 3 positions     Print Job 1,Print Job 2,Print Job 3
+Average Position Change: 1.5

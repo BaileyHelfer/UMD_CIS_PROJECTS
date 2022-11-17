@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\lab11\lab11\Main.cpp(121,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\lab11\lab11\Main.cpp(123,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\lab11\lab11\Main.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bailley\source\repos\lab11\lab11\Main.cpp(139,15): warning C4018: '<': signed/unsigned mismatch
+  lab11.vcxproj -> C:\Users\bailley\source\repos\lab11\Debug\lab11.exe

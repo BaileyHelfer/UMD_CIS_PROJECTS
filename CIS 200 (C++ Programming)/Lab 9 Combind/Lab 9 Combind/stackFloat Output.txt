@@ -1,0 +1,17 @@
+Real Number Stack
+Nothing was popped.
+
+Length of stack is: 0
+Stack is empty. No value returned
+1 is pushed into the stack
+5.5 is pushed into the stack
+1.5 is pushed into the stack
+1.2 is pushed into the stack
+Top element of stack is: 1.2
+1, 5.5, 1.5, 1.2, 
+2.4 is pushed into the stack
+Stack is full and can not push 4.5 into stack
+Length of stack is: 5
+1, 5.5, 1.5, 1.2, 2.4, 
+An element was removed from stack and it was 2.4
+4.9 is pushed into the stack

@@ -1,0 +1,3 @@
+﻿  Lab2Program2.cpp
+C:\Users\bailley\source\repos\Lab 2 Program 2\Lab 2 Program 2\Lab2Program2.cpp(17,77): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab 2 Program 2.vcxproj -> C:\Users\bailley\source\repos\Lab 2 Program 2\Debug\Lab 2 Program 2.exe

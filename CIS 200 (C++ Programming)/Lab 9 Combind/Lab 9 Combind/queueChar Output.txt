@@ -1,0 +1,17 @@
+Character Queue
+Queue is empty and nothing can be removed
+
+Length of queue is: 0
+Queue is empty!
+a added to queue
+b added to queue
+c added to queue
+d added to queue
+a is in front of queue
+a, b, c, d, 
+e added to queue
+Queue is full and can not add f
+Length of queue is: 5
+a, b, c, d, e, 
+a was removed from queue
+g added to queue

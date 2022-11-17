@@ -1,0 +1,17 @@
+I Q
+R
+P
+L
+T
+A 1
+A 5
+A 1
+A 3
+T
+P
+A 2
+A 4
+L
+P
+R
+A 4

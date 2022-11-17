@@ -1,0 +1,17 @@
+Integer Queue
+Queue is empty and nothing can be removed
+
+Length of queue is: 0
+Queue is empty!
+1 added to queue
+5 added to queue
+1 added to queue
+3 added to queue
+1 is in front of queue
+1, 5, 1, 3, 
+2 added to queue
+Queue is full and can not add 4
+Length of queue is: 5
+1, 5, 1, 3, 2, 
+1 was removed from queue
+4 added to queue

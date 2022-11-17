@@ -1,0 +1,17 @@
+Character Stack
+Nothing was popped.
+
+Length of stack is: 0
+Stack is empty. No value returned
+a is pushed into the stack
+b is pushed into the stack
+c is pushed into the stack
+d is pushed into the stack
+Top element of stack is: d
+a, b, c, d, 
+e is pushed into the stack
+Stack is full and can not push f into stack
+Length of stack is: 5
+a, b, c, d, e, 
+One was removed from stack and it was e
+g is pushed into the stack

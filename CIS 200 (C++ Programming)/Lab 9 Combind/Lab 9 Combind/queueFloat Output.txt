@@ -1,0 +1,17 @@
+Real Number Queue
+Queue is empty and nothing can be removed
+
+Length of queue is: 0
+Queue is empty!
+1 added to queue
+5.5 added to queue
+1.5 added to queue
+1.2 added to queue
+1 is in front of queue
+1, 5.5, 1.5, 1.2, 
+2.4 added to queue
+Queue is full and can not add 4.5
+Length of queue is: 5
+1, 5.5, 1.5, 1.2, 2.4, 
+1 was removed from queue
+4.9 added to queue

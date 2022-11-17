@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\Lab 9\Lab 9\Main.cpp(242,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\bailley\source\repos\Lab 9\Lab 9\Main.cpp(251,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\bailley\source\repos\Lab 9\Lab 9\Main.cpp(268,5): warning C4305: 'argument': truncation from 'double' to 'ItemType'
+          with
+          [
+              ItemType=float
+          ]
+C:\Users\bailley\source\repos\Lab 9\Lab 9\Main.cpp(100): warning C4715: 'Stack<int>::peek': not all control paths return a value
+C:\Users\bailley\source\repos\Lab 9\Lab 9\Main.cpp(100): warning C4715: 'Stack<float>::peek': not all control paths return a value
+  Lab 9.vcxproj -> C:\Users\bailley\source\repos\Lab 9\Debug\Lab 9.exe

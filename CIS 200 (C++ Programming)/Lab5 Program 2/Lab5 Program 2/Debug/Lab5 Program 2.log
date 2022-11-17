@@ -1,0 +1,4 @@
+﻿  Lab5Program2.cpp
+C:\Users\bailley\source\repos\Lab5 Program 2\Lab5 Program 2\Lab5Program2.cpp(41,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bailley\source\repos\Lab5 Program 2\Lab5 Program 2\Lab5Program2.cpp(42,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab5 Program 2.vcxproj -> C:\Users\bailley\source\repos\Lab5 Program 2\Debug\Lab5 Program 2.exe

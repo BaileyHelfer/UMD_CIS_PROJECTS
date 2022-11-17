@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\bailley\source\repos\Lab 8\Lab 8\Main.cpp(25,1): error C2955: 'randomNode': use of class template requires template argument list
+C:\Users\bailley\source\repos\Lab 8\Lab 8\Main.cpp(10): message : see declaration of 'randomNode'
+C:\Users\bailley\source\repos\Lab 8\Lab 8\Main.cpp(115): message : see reference to class template instantiation 'tenForward<T>' being compiled
+C:\Users\bailley\source\repos\Lab 8\Lab 8\Main.cpp(34,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\bailley\source\repos\Lab 8\Lab 8\Main.cpp(34,1): warning C4183: 'tenForawrd': missing return type; assumed to be a member function returning 'int'
+C:\Users\bailley\source\repos\Lab 8\Lab 8\Main.cpp(68,27): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
